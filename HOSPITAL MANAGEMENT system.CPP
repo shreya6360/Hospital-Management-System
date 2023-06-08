@@ -283,4 +283,4 @@ int main ()
 	cout<<"\n\t\tThank you! \n"<<endl;
 	cout<<"file write operation is perfomed succesfully"<<endl;	
 	exit(0);
-}
+ }
