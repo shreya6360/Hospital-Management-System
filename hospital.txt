@@ -1,0 +1,9 @@
+first name: ss
+last name: ee
+blood group: a+
+gender: m
+age: 33
+mobile_no.: 3765632632
+docter fees: 3000
+medicine bill: 23333
+the total expenditure:26333
