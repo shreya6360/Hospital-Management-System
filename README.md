@@ -8,5 +8,16 @@ OS: Windows 7 or above
 
 Software Used: DEV C++,Version:5.11
 
+# Run Locally
+To run this project locally, run this command on your git bash:
+
+Linux and macOS:
+
+sudo git clone https://github.com/shreya6360/Responsive-personal_portfolio.git
+
+Windows:
+
+git clone https://github.com/shreya6360/Responsive-personal_portfolio.git
+
 # License
 This project is free to use and does not contains any license.
